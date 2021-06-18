@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Clara Pasman"
-  avatar           : "profile.png"
+  avatar           : "fotocarnet.jpeg"
   bio              : "Economist and Master's student"
   location         : "Buenos Aires"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
