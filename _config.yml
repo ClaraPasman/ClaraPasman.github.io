@@ -66,9 +66,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Tutor for higschool students 
-  name                   : Sumando: Red de Apoyo Escolar 
-  links: https://www.instagram.com/sumandoapoyoescolar/?hl=es-la 
+  type                   : 
+  name                   : 
+  links: 
 
 
 # Analytics
@@ -85,8 +85,8 @@ author:
   bio              : "Economist and Master's student"
   location         : "Buenos Aires"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           : ""
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
