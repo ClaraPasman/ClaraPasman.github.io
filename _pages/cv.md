@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Economics, Universidad de San Andrés, 2020
+* Micro Master on Data, Economics and Development Policy, MITx in edX, 2020
+* Master of Economics, Universidad de San Andrés, 2021 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Spanish (Native)
+  * English (Bilingual)
+  * French (Elemental)
+* Programming and Document Creation
+  * LaTex
+  * MATLAB
+  * R
+  * Stata
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Part-time tutor of Introduction to Economics, Universidad de San Andrés, Spring 2021
+
+Research
+======
+* Research Assistant for Santiago Barraza, PhD in Finance, Fall 2019
+* Collaborator for Centro de Estudios para el Desarrollo Humano
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Sumando: Red de Apoyo Escolar 
+  * Free tutoring for highschool students in vulnerable areas
+* Volunteer for Un TECHO para mi país
+  * Construction of houses for low-income families
