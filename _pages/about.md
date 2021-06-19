@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Economist and currently student from Master of Economics at [Universidad de San Andrés] (www.udesa.edu.ar). 
+Economist and currently Master of Economics' student at [Universidad de San Andrés](www.udesa.edu.ar). 
 
 I completed a MicroMaster in Data, Economics and Development Policy at MITx on edX. 
 
