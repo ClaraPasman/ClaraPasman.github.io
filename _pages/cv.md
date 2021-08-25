@@ -23,15 +23,18 @@ Skills
   * English (Bilingual)
   * French (Elemental)
 * Programming and Document Creation
-  * LaTex
+  * LaTeX
   * MATLAB
   * R
   * Stata
+  * QGIS
+  * Python
 
 
 Teaching
 ======
 * Part-time tutor of Introduction to Economics, Universidad de San Andrés, Spring 2021
+* Part-time tutor of Macroeconomics, Universidad de San Andrés, Fall 2021
 
 Research
 ======
