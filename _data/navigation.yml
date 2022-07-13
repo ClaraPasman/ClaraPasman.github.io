@@ -4,7 +4,8 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    file:/CV_ClaraPasman/
    
   - title: "CV"
     url: /cv/
