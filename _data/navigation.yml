@@ -5,8 +5,8 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    file:/CV_ClaraPasman/
+   
    
   - title: "CV"
     url: /cv/
-    
+    file: /CV_ClaraPasman.pdf/
