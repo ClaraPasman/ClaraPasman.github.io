@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+file: /CV_ClaraPasman/
 ---
 
 {% include base_path %}
